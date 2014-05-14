@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <dimen name="seekbar_width">100dip</dimen>
+    <dimen name="action_bar_slider_icon_right_margin">5dip</dimen>
+    <dimen name="action_bar_brush_buttons_width">50dip</dimen>
+    <dimen name="notification_bar_height">25dip</dimen>
+    <dimen name="default_drawing_verticalMargin">40dip</dimen>
+    <dimen name="default_drawing_horizontalMargin">120dip</dimen>
+    <dimen name="default_drawing_distance_from_border">20dip</dimen>
+    <dimen name="color_picker_dialog_title_height">64dip</dimen>
+    <dimen name="color_picker_dialog_width">400dip</dimen>
+    <dimen name="color_picker_dialog_title_text_size">24sp</dimen>
+	<dimen name="toolbar_width">80dp</dimen>
+    
+</resources>
